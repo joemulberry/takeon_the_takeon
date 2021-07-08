@@ -8,10 +8,18 @@ My research will culminate in a visual dashboard that’s intuitive to consume w
 
 The dashboard will be built on top of a new bespoke framework for take-on analysis, whose:
 
-- Defensive Situational Categorisation 
+* Defensive Situational Categorisation 
 
-   Statsbomb 360 data provides us with a freeze-frame of all player positions at the moment of each event. With the take-on location as 0,0 defender locations will be mapped in a 10m diameter around the using KDE and then clustered (using ? method). The clusterings will lablled with relevant football language. 
+   Statsbomb 360 data provides us with a freeze-frame of all player positions at the moment of each event. With the take-on location as (0,0), defender locations will be mapped in a 10m diameter around the using KDE and then clustered. The clusterings will be lablled with relevant football language such as 'isolated 1v1' or 'staggered cover' etc. Elements to confirm: 
+   * Clustering method? 
+   * Orientation, as is? Player -> Centre of Goal?
+   * Sidelines and goalines?
 
-- asdsadasdad
-  asdasd
+* Pre-Action Dynamics 
+
+   This si sth eaisdajn djn aspdjnask dklandknk jnkjn jknknaksdnkjan ansnsnsnakjdkjasdkjnasdnaksjndka nkjkjn asd
+   
+* asdasd 
+
+   asd 
 
