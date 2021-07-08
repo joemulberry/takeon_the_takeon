@@ -1,6 +1,6 @@
 # My Take-On the Take-On
 
-![The Take On](https://images.ctfassets.net/3mv54pzvptwz/5negISlYy7TOjxBbsgLV4l/a48577d7f8a7f8efb5272729d2a00b5c/neymarjr-psg-x-lyon-131220_.jpg)
+![The Take On](https://github.com/joemulberry/takeon_the_takeon/blob/main/images/takeon_banner.jpg?raw=true)
 
 ### The Introduction  
 
