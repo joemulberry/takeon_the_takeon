@@ -8,6 +8,10 @@ Some of my favourite moments in football are when a winger receives the ball on 
 
 My research will culminate in a visual dashboard that’s intuitive to consume whilst providing a deeper understanding of a player’s efficiency, objectives and situational tendencies in relation to take-ons. Clubs can be more detailed in their assessment of transfer targets as well as game-preparation to understand the strengths and weaknesses of the opposition’s offensive players.
 
+### The Data
+
+I will use Statsbomb 360 data, self-shilled as the "most comprehensive and contextual event dataset in football". The data includes a 'freeze-frame' for each action which consists of all player positions at the moment in time, with the player and the GKs (if in shot) named. Such rich data provides an exciting oppournity to build event's situational context into models of analysis. I will have access to 190 games of StatsBomb Data AND StatsBomb 360 Data from Spain’s 2020-21 La Liga season, which will consist of all matches for the top 10 teams. 
+
 ### The Framework 
 
 The dashboard will be built on top of a new bespoke framework for take-on analysis, whose:
