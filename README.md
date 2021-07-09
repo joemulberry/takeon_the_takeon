@@ -16,9 +16,12 @@ I will use Statsbomb 360 data, self-shilled as the "most comprehensive and conte
 
 Blah blah blah blah 
 
-**1. Situational Categorisation**
+**1. Close-quaters Situational Categorisation**
 
-   Explainer intro text da;lskd;lkasd ;aklsd ;laksd; lkas;ldk ;a slkd; alksd;lkas;dlkas;ldk;alskd 
+   Each take-on situation will be unique however there will be unlying groups of similar siutations that can be asertained. 
+   
+   
+   Using the richness of 360 data and some feature engineering, a number of desciptive metrics will be created including: 
 
    * **asdasdasd** - asdasdkmalskmd alksmd lkams dlkasm dlkmasd lkmasl dkmalsk dmlaskmd lkmasld kmlaskmd laksmdlkm aslkdmlaskmd lkamsldkmla skmdlkasmdl kasmldkmasldkmsaldkm 
    * asdasdas
