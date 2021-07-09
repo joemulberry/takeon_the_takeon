@@ -37,3 +37,12 @@ The dashboard will be built on top of a new bespoke framework for take-on analys
 * Value Gained / Lost 
 
    Using a 'value' system will be used assign +/- value for each take-on.  
+   
+   
+   
+   
+   
+   
+Originality: StatsBomb have the richest event data in the world, and 360 data is the first dataset of it’s kind. We’re looking for innovative approaches to analysing it
+Application: Can your work be used to help clubs make better decisions or be the basis for future research?
+Feasibility: Is your proposal a realistic one for the given timeframe?
