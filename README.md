@@ -10,7 +10,7 @@ My research will culminate in a visual dashboard that’s intuitive to consume w
 
 ### The Data
 
-I will use Statsbomb 360 data, self-shilled as the "most comprehensive and contextual event dataset in football". The data includes a 'freeze-frame' for each action which consists of all player positions at the moment in time, with the player and the GKs (if in shot) named. Such rich data provides an exciting oppournity to build event's situational context into models of analysis. I will have access to 190 games of StatsBomb Data AND StatsBomb 360 Data from Spain’s 2020-21 La Liga season, which will consist of all matches for the top 10 teams. 
+I will use Statsbomb 360 data, self-shilled as the "most comprehensive and contextual event dataset in football". The data includes a 'freeze-frame' for each action which consists of all player positions at the moment in time, with the player and the GKs (if in shot) named. Such rich data provides an exciting oppournity to build event's situational context into models of analysis. I will have access to 190 games of StatsBomb Event+360 Data from Spain’s 2020-21 La Liga season, which will consist of all matches for the top 10 teams. 
 
 ### The Framework 
 
