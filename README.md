@@ -14,6 +14,71 @@ I will use Statsbomb 360 data, self-shilled as the "most comprehensive and conte
 
 ### The Framework 
 
+Blah blah blah blah 
+
+**1. Situational Categorisation**
+
+   Explainer intro text da;lskd;lkasd ;aklsd ;laksd; lkas;ldk ;a slkd; alksd;lkas;dlkas;ldk;alskd 
+
+   * **asdasdasd** - asdasdkmalskmd alksmd lkams dlkasm dlkmasd lkmasl dkmalsk dmlaskmd lkmasld kmlaskmd laksmdlkm aslkdmlaskmd lkamsldkmla skmdlkasmdl kasmldkmasldkmsaldkm 
+   * asdasdas
+   * dasd
+   * asd
+
+
+**2. Game Situation**
+
+   Explainer intro text da;lskd;lkasd ;aklsd ;laksd; lkas;ldk ;a slkd; alksd;lkas;dlkas;ldk;alskd 
+
+   * **asdasdasd** - asdasdkmalskmd alksmd lkams dlkasm dlkmasd lkmasl dkmalsk dmlaskmd lkmasld kmlaskmd laksmdlkm aslkdmlaskmd lkamsldkmla skmdlkasmdl kasmldkmasldkmsaldkm 
+   * asdasdas
+   * dasd
+   * asd
+
+
+**3. Value**
+
+   There are many frameworks can evaluate the 'value' of each action, such as xT or EPV. Using one of these frameworks take-ons will be assigned a 'value' for the action itself and the following two actions, culminating in a +/- 'value'. 
+
+**4. Pitch Location**
+
+   Explainer intro text da;lskd;lkasd ;aklsd ;laksd; lkas;ldk ;a slkd; alksd;lkas;dlkas;ldk;alskd 
+
+   * **asdasdasd** - asdasdkmalskmd alksmd lkams dlkasm dlkmasd lkmasl dkmalsk dmlaskmd lkmasld kmlaskmd laksmdlkm aslkdmlaskmd lkamsldkmla skmdlkasmdl kasmldkmasldkmsaldkm 
+   * asdasdas
+   * dasd
+   * asd
+
+**5. Siutational Location**
+
+   Explainer intro text da;lskd;lkasd ;aklsd ;laksd; lkas;ldk ;a slkd; alksd;lkas;dlkas;ldk;alskd 
+
+   * **asdasdasd** - asdasdkmalskmd alksmd lkams dlkasm dlkmasd lkmasl dkmalsk dmlaskmd lkmasld kmlaskmd laksmdlkm aslkdmlaskmd lkamsldkmla skmdlkasmdl kasmldkmasldkmsaldkm 
+   * asdasdas
+   * dasd
+   * asd
+
+**6. Situational Location**
+
+   Explainer intro text da;lskd;lkasd ;aklsd ;laksd; lkas;ldk ;a slkd; alksd;lkas;dlkas;ldk;alskd 
+
+   * **asdasdasd** - asdasdkmalskmd alksmd lkams dlkasm dlkmasd lkmasl dkmalsk dmlaskmd lkmasld kmlaskmd laksmdlkm aslkdmlaskmd lkamsldkmla skmdlkasmdl kasmldkmasldkmsaldkm 
+   * asdasdas
+   * dasd
+   * asd
+
+
+#### Detangling Locations
+
+The the absence of contextual information, the location of events has always been described as their locaiton on the pitch. With additional context we have more options to descirbe event locations. 
+
+#### asdasd
+
+asdasda s
+
+
+
+
 The dashboard will be built on top of a new bespoke framework for take-on analysis, whose:
 
 * Close-Quarters Defensive Situational Categorisation 
